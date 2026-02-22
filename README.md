@@ -1,2 +1,2 @@
 # lippman-core-cpp
-ы
+
